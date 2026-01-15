@@ -122,6 +122,3 @@ Use **Visual Studio Code** with the **"ES7+ React/Redux/React-Native snippets"**
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 - [Stack Overflow: React Native](https://stackoverflow.com/questions/tagged/react-native)
 
-```
-
-```
