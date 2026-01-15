@@ -1,4 +1,3 @@
-````markdown
 # Setting Up a React Native Environment for Mobile Development
 
 ---
@@ -17,7 +16,6 @@ Node.js is the runtime that executes your JavaScript code.
   node -v
   npm -v
   ```
-````
 
 (Successful installation will display version numbers for both.)
 
